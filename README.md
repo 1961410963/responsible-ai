@@ -1,7 +1,9 @@
-# 🤖 负责人AI课程作品集
+# 🤖 负责任AI课程作品集
 
-> 北京大学光华管理学院 · 负责人AI（AI for Leaders）实战  
+> 北京大学光华管理学院 · 负责任AI（Responsible AI）实战 
 > Created by **Eric Zhao**
+
+> 🌐 **线上作品集**：https://1961410963.github.io/responsible-ai/
 
 <div align="center">
 
@@ -16,9 +18,9 @@
 ## 🗂️ 项目结构
 
 ```
-负责人AI/
-├── index.html                # 📄 作品集入口（重定向 → leader-ai/index.html）
-├── leader-ai/                # 📁 作品集与分析报告
+负责任AI/
+├── index.html                # 📄 作品集入口（重定向 → responsible-ai/index.html）
+├── responsible-ai/           # 📁 作品集与分析报告
 │   ├── index.html            #    作品集首页（卡片式作业列表）
 │   ├── output/               #    📊 数据与报告输出目录
 │   └── scripts/              #    🔧 辅助脚本
@@ -26,7 +28,7 @@
 └── README.md
 ```
 
-> 说明：本仓库为「负责人AI」课程的独立作品集，与同目录下的「AI量化交易」仓库相互独立。
+> 说明：本仓库为「负责任AI」课程的独立作品集，与同目录下的「AI量化交易」仓库相互独立。
 
 ---
 
@@ -59,7 +61,7 @@
 
 | 项目 | 信息 |
 |------|------|
-| 📚 课程 | 北京大学光华管理学院 · 负责人AI（AI for Leaders） |
+| 📚 课程 | 北京大学光华管理学院 · 负责任AI（Responsible AI） |
 | 👨‍💻 作者 | Eric Zhao |
 | 📧 邮箱 | [1961410963@qq.com](mailto:1961410963@qq.com) |
 | 🐙 GitHub | [@1961410963](https://github.com/1961410963) |
