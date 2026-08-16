@@ -67,6 +67,10 @@ leader-ai/output/*.json
 *.pdf
 ~$*
 
+# 课程资料（课件/作业要求/参考图）放行，覆盖上面的 *.pdf / *.docx 忽略
+!课程资料/
+!课程资料/**
+
 # WeChat images
 微信图片_*.png
 
