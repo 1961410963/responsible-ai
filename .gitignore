@@ -1,0 +1,82 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg/
+*.egg
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+.trae-mcp/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables (敏感配置)
+.env
+.env.local
+.env.*.local
+
+# Cache
+.cache/
+*.db
+
+# Test
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Archive (废弃归档)
+_archive/
+
+# Generated files
+leader-ai/output/*.png
+leader-ai/output/*.md
+leader-ai/output/*.json
+
+# Personal documents
+*.docx
+*.pdf
+~$*
+
+# WeChat images
+微信图片_*.png
+
+# Debug/temp scripts
+check_*.py
+extract_*.py
+fix_*.py
+format_*.py
+generate_final_*.py
+task*_*.py
+
+# IDE/temp packages
+.trae-html-share-packages/
